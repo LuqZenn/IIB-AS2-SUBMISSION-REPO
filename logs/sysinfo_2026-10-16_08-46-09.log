@@ -1,0 +1,36 @@
+========================================
+       SYSTEM INFORMATION REPORT        
+========================================
+Generated on: Fri Oct 16 08:46:09 UTC 2026
+Hostname:   iib-as2
+OS/Kernel:  Linux 7.0.0-31-generic x86_64
+Uptime: up 3 weeks, 6 days, 18 hours, 16 minutes
+CPU Load:  0.02, 0.06, 0.08
+----------------------------------------
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           956Mi       305Mi        68Mi       4.2Mi       607Mi       650Mi
+Swap:             0B          0B          0B
+----------------------------------------
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           192M  1.2M  191M   1% /run
+/dev/vda1        24G  3.1G   21G  14% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           479M     0  479M   0% /tmp
+/dev/vda13      989M  143M  779M  16% /boot
+/dev/vda15      105M  6.3M   99M   7% /boot/efi
+none            1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs            96M  8.0K   96M   1% /run/user/1028
+tmpfs            96M  8.0K   96M   1% /run/user/1022
+tmpfs            96M  8.0K   96M   1% /run/user/1009
+tmpfs            96M  8.0K   96M   1% /run/user/1012
+tmpfs            96M  8.0K   96M   1% /run/user/1020
+tmpfs            96M  8.0K   96M   1% /run/user/1025
+tmpfs            96M  8.0K   96M   1% /run/user/1029
+tmpfs            96M  8.0K   96M   1% /run/user/1005
+========================================

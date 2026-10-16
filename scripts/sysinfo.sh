@@ -4,11 +4,11 @@ echo "========================================"
 echo "       SYSTEM INFORMATION REPORT        "
 echo "========================================"
 echo "Hostname:   $(hostname)"
-echo "OS/Kernel:  $(uname -sr)"
+echo "OS/Kernel:  $(uname -srm)"
 echo "----------------------------------------"
 echo "Memory Usage:"
 free -h
 echo "----------------------------------------"
 echo "Disk Usage:"
-df -h /
+df -h
 echo "========================================"

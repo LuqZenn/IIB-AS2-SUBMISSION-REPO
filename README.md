@@ -12,7 +12,7 @@ The "sysinfo.sh" script reports:
 - CPU load
 - Logs each run into "logs/" with a timestamped file.
 
-To run the script, log on to your ssh machine, input ~/DS1202_project/scripts/sysinfo.sh and run it on the machine.
+To run the script, log on to your ssh machine using your own ssh key, input ~/DS1202_project/scripts/sysinfo.sh and run it on the machine.
 It will then output the details of the system information such as its name, OS/Kernel, Disk Usage, Uptime and CPU load.
 Once run, it will generate a log containing the date and time of when its generated and save the detail of its state at that point in time to the ssh machine.
 
